@@ -1,0 +1,15 @@
+.signmain{
+    /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh-Sr1XayPMUWXqEs1KCFLvFiwneeyeNvHxw&usqp=CAU'); */
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+
+.signform{
+    float: left;
+
+}
+
+.loginform{
+    margin-top: 100px;
+    margin-left: 400px;
+}
