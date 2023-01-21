@@ -1,0 +1,30 @@
+.signinform{
+    width: 350px;
+    height: 450px;
+    margin-left: 250px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    background-color: aqua;
+}
+
+#input{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#inputemail{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#signinhead{
+    font-size: 30px;
+    text-align: center;
+    color: darkorange;
+}
+
+#submit{
+    background-color: burlywood;
+    color: cornsilk;
+    margin-top: 30px;
+}

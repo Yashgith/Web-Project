@@ -1,0 +1,51 @@
+.signupform{
+    width: 350px;
+    height: 450px;
+    background-color: aqua;
+    padding: 50px;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
+#inputname{
+    margin-top: 8px;
+}
+
+#email{
+    margin-top: 8px;
+}
+
+#inputpassword{
+    margin-top: 8px;
+}
+
+#inputdate{
+    margin-top: 8px;
+}
+
+#signhead{
+    font-size: 30px;
+    text-align: center;
+    color:darkorange;
+    margin-bottom: 8px;
+}
+
+
+#signinlink{
+    margin-left: 12px;
+    font-size: 12px;
+}
+
+#signinlink:hover{
+    color: red;
+}
+
+#submit{
+    margin-top: 40px;
+    margin-left: 80px;
+    background-color: burlywood;
+    color:cornsilk;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+}
